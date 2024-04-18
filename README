@@ -1,0 +1,18 @@
+ZACH WALDEN
+w989j27
+Programming Assigment #4
+
+##################
+PURPOSE OF PROJECT
+##################
+
+This script emulates page replacement. There are multiple algorithms for this, and we are
+implementing 3 for this assignment: FIFO, LRU, & Optimal. Optimal will always be better then
+the two former: FIFO will have many faults, and LRU will often beat FIFO assuming a realistic
+page frame table. However, optimal allows a more versatile apporach in comparison.
+
+#########
+Executing
+#########
+
+In a python interpreter, simply run run.py
